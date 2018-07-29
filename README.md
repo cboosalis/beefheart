@@ -1,7 +1,7 @@
 # beefheart
 <c>Something that I read on the subject of Captain Beefheart....</c>
 ---
-So, I have an answer to a question that nobody asked: "Dammit, what is your favorite Captain Beefheart song?"  "Why that would have to be Odd Jobs."
+So, I have an answer to a question that nobody asked: "What is your favorite Captain Beefheart song?"  "Why that would have to be Odd Jobs."
  
 Odd Jobs - Captain Beefheart
 https://www.youtube.com/watch?v=mHMgHnHSv88
@@ -52,4 +52,4 @@ Here he comes peddlin' up on his form-a-heap bike
 A bag of skin and bones
 Spokes were scraping two rust fenders, oh
  
-Dammit wonders if Herb Bermann contributed anything to the lyrics on this one.
+One wonders if Herb Bermann contributed anything to the lyrics on this one.
