@@ -1,4 +1,4 @@
-# beefheart
+# Don Van Vliet
 <c>Something that I read on the subject of Captain Beefheart....</c>
 ---
 <html>
