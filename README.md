@@ -1,5 +1,5 @@
 # Don Van Vliet
-<c>Something that I wrote on the subject of Don Van Vliet</c>
+#### Something that I wrote on the evolution of the song, "Odd Jobs," by Captain Beefheart
 ---
 <html>
 <div class="post">
