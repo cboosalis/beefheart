@@ -1,5 +1,5 @@
 # Don Van Vliet
-<c>Something that I read on the subject of Captain Beefheart....</c>
+<c>Something that I wrote on the subject of Don Van Vliet</c>
 ---
 <html>
 <div class="post">
